@@ -8,7 +8,7 @@ public class JDBCDEMO {
 	 public static void main(String[] args) {
 	        String url = "jdbc:mysql://localhost:3306/students";
 	        String user = "root"; 
-	        String password = "171995Iwasborn#"; 
+	        String password = "K@lkidan1995"; 
 	        String databaseName = "new_database";
 
 	        try {
